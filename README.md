@@ -5,3 +5,5 @@ Let’s create a new Laravel Project
 
 To create a new project, run the following command wherever your projects are stored:
 
+$ composer create-project --prefer-dist laravel/laravel open-closed-principle
+
